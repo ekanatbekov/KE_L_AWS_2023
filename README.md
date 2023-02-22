@@ -16,3 +16,6 @@ provider "aws" {
 }
 
 ```
+```
+Please install tfenv command https://github.com/tfutils/tfenv 
+```
