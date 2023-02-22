@@ -9,7 +9,7 @@ Name = My-instance
 CreatedBy = Kanya
 Team = DevOPs
 
-also in the same folder please create a file callet provider.tf with following content in it 
+also in the same folder please create a file called provider.tf with following content in it 
 
 provider "aws" {
   region = "us-east-1"
